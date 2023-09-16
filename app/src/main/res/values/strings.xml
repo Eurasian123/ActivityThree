@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityThree</string>
+    <string name="equal_sign">=</string>
+    <string name="placeholder">000000000</string>
+    <string name="addition">Sum</string>
+    <string name="subtraction">Difference</string>
+    <string name="multiplication">Product</string>
+    <string name="division">Quotient</string>
+    <string name="hello">Arithmetic Operations</string>
+    <string name="clear">CLEAR</string>
+</resources>
